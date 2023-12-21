@@ -8,10 +8,12 @@
   - Code base optimization
   - Identify and integrate suitable APIs for the Project
 
-
 - **Bui Duc Nhan**
-  - Create use case diagrams
-  - Build 2 functions
+  - Database design
+  - Come up with ideas for functions
+  - Managing the project progress
+  - Design use-case and business-flow diagrams
+  - Contributing 3 functions pratically
 
 - **Tran Van Luan**
   - Design interface
