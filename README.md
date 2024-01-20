@@ -1,27 +1,6 @@
 # Website Providing Online Courses
-
-## Author:
-
-- **Dang Nguyen Quang Huy**
-  - Database design
-  - Come up with ideas and build many modules
-  - Code base optimization
-  - Identify and integrate suitable APIs for the Project
-
-- **Bui Duc Nhan**
-  - Database design
-  - Come up with ideas for functions
-  - Managing the project progress
-  - Design use-case and business-flow diagrams
-  - Contributing 3 functions pratically
-
-- **Tran Van Luan**
-  - Design interface
-
-- **Huynh Thien Nhan**
-  - Create BFD
-  - Build 1 function
-
+## General Information
+A website provide a space with various and qualified courses through the Internet. Besides, the tutors who are authors can create and update these courses
 
 ## Technology Used:
 
